@@ -1,0 +1,13 @@
+.header--title-container .header--button {
+    position: absolute;
+    left: calc(43% - 10px);
+
+}  
+
+
+.product-cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+}
